@@ -1,0 +1,19 @@
+# Genome assemblies
+data/genome_assemblies/*.fna
+
+# AUGUSTUS predictions
+augustus_prediction/gff/*
+augustus_prediction/proteins/*
+
+# Large FASTA results
+results/*.faa
+results/cdhit/*.faa
+
+# AlphaFold databases
+alphafold/*
+diamond/*
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
