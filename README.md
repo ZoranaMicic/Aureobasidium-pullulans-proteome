@@ -49,8 +49,8 @@ the closest available fungal model was used(Botryitis cinerea).
 
 Prediction files:
 augustus_prediction\
-|----- gff/
-|----- proteins/
+|----- gff\
+|----- proteins\
 
 
 The predicted proteins were extracted from AUGUSTUS GFF output files.
@@ -107,7 +107,7 @@ Future analyses include:
 - biological pathway analysis
 
 Directories:
-diamog/
+diamond/
 kegg/
 
 ---
